@@ -1,7 +1,8 @@
 # TweetMine - Twitter Tweet Mining Machine
 
-My advanced Twitter Tweet Mining Machine that can mine tweets by batches with interval.
+My advanced Twitter Tweet Mining Machine that can mine tweets by batches with interval. Volunteered to write for a senior project.
 
+Sneak peak:
 ```
 def __main():
 
